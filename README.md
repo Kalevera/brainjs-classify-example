@@ -9,7 +9,7 @@ Next divide by 255 (ASCII character range).
 Then pad both the inputs and outputs to match the maxium input array length and maximum output array length (this is because the arrays varry significantly enough to cause errors in the training)
 Once the padding (zeros) is added I then run the data through the Brain.js Nueral Network.
 Wait a few days while the error is reduced.
-Once complete test the network comprability using the ~~~~teacher.answer()~~~~ method
+Once complete test the network comprability using the teacher.answer() method
 
 ###An example of the teacher module would be. 
 
