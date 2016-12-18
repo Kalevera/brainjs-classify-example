@@ -1,0 +1,19 @@
+{
+  "name": "kit",
+  "version": "0.0.1",
+  "description": "'ai brian child'",
+  "main": "index.js",
+  "dependencies": {
+    "brain.js": "file:brain.js",
+    "natural": "^0.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ai"
+  ],
+  "author": "Roberto Vega",
+  "license": "ISC"
+}
