@@ -1,0 +1,138 @@
+[
+  {
+    "input": "In a world of paridy what is a question really?",
+    "output": "question"
+  },
+  {
+    "input": "time?",
+    "output": "question time"
+  },
+  {
+    "input": "master?",
+    "output": "question"
+  },
+  {
+    "input": "who's the master?",
+    "output": "question"
+  },
+  {
+    "input": "I'm your master.",
+    "output": "declaration"
+  },
+  {
+    "input": "What is my name?",
+    "output": "question my name"
+  },
+  {
+    "input": "what's your name?",
+    "output": "question kit"
+  },
+  {
+    "input": "In a world of parody, what is a question really?",
+    "output": "question"
+  },
+  {
+    "input": "After all that, what does this mean?",
+    "output": "question"
+  },
+  {
+    "input": "I was wondering, what happens next?",
+    "output": "question"
+  },
+  {
+    "input": "That sounds strange, but why does it happen?",
+    "output": "question"
+  },
+  {
+    "input": "The world is strange; how does this work?",
+    "output": "question"
+  },
+  {
+    "input": "You said it works, so does it work?",
+    "output": "question"
+  },
+  {
+    "input": "Tell me, is this a question?",
+    "output": "question"
+  },
+  {
+    "input": "Is that really all?",
+    "output": "question"
+  },
+  {
+    "input": "Can this be true?",
+    "output": "question"
+  },
+  {
+    "input": "Really?",
+    "output": "question"
+  },
+  {
+    "input": "Ready?",
+    "output": "question"
+  },
+  {
+    "input": "Finished?",
+    "output": "question"
+  },
+  {
+    "input": "Which one?",
+    "output": "question"
+  },
+  {
+    "input": "What time?",
+    "output": "question time"
+  },
+  {
+    "input": "Is it time?",
+    "output": "question time"
+  },
+  {
+    "input": "The time is right.",
+    "output": "declaration time"
+  },
+  {
+    "input": "I have time.",
+    "output": "declaration time"
+  },
+  {
+    "input": "The master is here.",
+    "output": "declaration"
+  },
+  {
+    "input": "I am the master.",
+    "output": "declaration"
+  },
+  {
+    "input": "That is really all.",
+    "output": "declaration"
+  },
+  {
+    "input": "This can be true.",
+    "output": "declaration"
+  },
+  {
+    "input": "I am ready.",
+    "output": "declaration"
+  },
+  {
+    "input": "It is finished.",
+    "output": "declaration"
+  },
+  {
+    "input": "This is what happens next.",
+    "output": "declaration"
+  },
+  {
+    "input": "I know why it happens.",
+    "output": "declaration"
+  },
+  {
+    "input": "This is a question about questions.",
+    "output": "declaration"
+  },
+  {
+    "input": "In a world of parody, a question is still a question.",
+    "output": "declaration"
+  }
+]

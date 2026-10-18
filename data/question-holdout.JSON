@@ -1,0 +1,50 @@
+[
+  {
+    "input": "After thinking about it, could that be right?",
+    "output": "question"
+  },
+  {
+    "input": "With everything settled, are we done?",
+    "output": "question"
+  },
+  {
+    "input": "Any other way?",
+    "output": "question"
+  },
+  {
+    "input": "Still waiting?",
+    "output": "question"
+  },
+  {
+    "input": "Which choice would work best?",
+    "output": "question"
+  },
+  {
+    "input": "This seems odd, so why would it work?",
+    "output": "question"
+  },
+  {
+    "input": "After thinking about it, that seems right.",
+    "output": "declaration"
+  },
+  {
+    "input": "With everything settled, we are done.",
+    "output": "declaration"
+  },
+  {
+    "input": "There is another way.",
+    "output": "declaration"
+  },
+  {
+    "input": "We are still waiting.",
+    "output": "declaration"
+  },
+  {
+    "input": "I understand which choice works best.",
+    "output": "declaration"
+  },
+  {
+    "input": "This explains why it works.",
+    "output": "declaration"
+  }
+]

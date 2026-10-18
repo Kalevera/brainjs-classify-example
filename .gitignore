@@ -37,3 +37,8 @@ jspm_packages
 .node_repl_history
 Contact GitHub API Training Shop Blog About
 © 2016 GitHub, Inc. Terms Privacy Security St
+# Local training artifacts and Python environments
+models/
+.venv/
+__pycache__/
+*.py[cod]

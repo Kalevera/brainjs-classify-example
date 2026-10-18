@@ -1,0 +1,4 @@
+# CUDA 12.6 build tested on the GTX 1050 Ti; newer CUDA builds may drop Pascal support.
+--index-url https://download.pytorch.org/whl/cu126
+torch==2.13.0
+numpy>=1.26,<3
